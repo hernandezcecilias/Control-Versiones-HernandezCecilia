@@ -1,14 +1,30 @@
-# Control-Versiones-HernandezCecilia
+# \# Control de Versiones - Hernández Cecilia
 
-\* \*\*Facultad de ingeniería\*\*
+# 
+
+# ---
+
+# \* \*\*Facultad de Ingeniería\*\*
+
+# \* \*\*UNAM\*\*
 
 
 
-\* \*\*Nombre:\*\* Hernández Martínez Cecilia Sayuri
 
-\* \*\*Materia:\*\* Laboratorio de Computación Gráfica
 
-\* \*\*Grupo de Teoría:\*\* 06
+# \##   Datos Personales
 
-\* \*\*Grupo de Laboratorio:\*\* 03
+# \* \*\*Nombre:\*\* Hernández Martínez Cecilia Sayuri
+
+# \* \*\*Materia:\*\* Laboratorio de Computación Gráfica
+
+# \* \*\*Grupo de Teoría:\*\* 06
+
+# \* \*\*Grupo de Laboratorio:\*\* 03
+
+# 
+
+# ---
+
+# > Este repositorio contiene el control de versiones de las prácticas realizadas durante el semestre.
 
