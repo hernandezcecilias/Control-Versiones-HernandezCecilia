@@ -1,4 +1,4 @@
-# Kaboratorio de Computación Gráfica e Interacción Humano-Computadora
+# Laboratorio de Computación Gráfica e Interacción Humano-Computadora
 
 ### UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
 ### FACULTAD DE INGENIERÍA
