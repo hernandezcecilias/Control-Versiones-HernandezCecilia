@@ -1,30 +1,17 @@
-# \# Control de Versiones - Hernández Cecilia
+# Kaboratorio de Computación Gráfica e Interacción Humano-Computadora
 
-# 
-
-# ---
-
-# \* \*\*Facultad de Ingeniería\*\*
-
-# \* \*\*UNAM\*\*
+### UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
+### FACULTAD DE INGENIERÍA
 
 
+---
 
+## Datos del Alumno
 
+* **Nombre:** Hernández Martínez Cecilia Sayuri
+* **N° de Cuenta:** 320313503
+* **Grupo de Laboratorio:** 03
+* **Grupo de Teoría:** 06
+* **Semestre:** 2026-2
 
-# \##   Datos Personales
-
-# \* \*\*Nombre:\*\* Hernández Martínez Cecilia Sayuri
-
-# \* \*\*Materia:\*\* Laboratorio de Computación Gráfica
-
-# \* \*\*Grupo de Teoría:\*\* 06
-
-# \* \*\*Grupo de Laboratorio:\*\* 03
-
-# 
-
-# ---
-
-# > Este repositorio contiene el control de versiones de las prácticas realizadas durante el semestre.
-
+---
