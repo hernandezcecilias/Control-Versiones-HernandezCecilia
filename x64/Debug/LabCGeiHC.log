@@ -1,4 +1,0 @@
-﻿  practica01.cpp
-C:\Users\cecil\OneDrive\Documentos\LabCGeiHC\LabCGeiHC\practica01.cpp(88,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
-C:\Users\cecil\OneDrive\Documentos\LabCGeiHC\LabCGeiHC\practica01.cpp(191,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  LabCGeiHC.vcxproj -> C:\Users\cecil\OneDrive\Documentos\LabCGeiHC\x64\Debug\LabCGeiHC.exe
