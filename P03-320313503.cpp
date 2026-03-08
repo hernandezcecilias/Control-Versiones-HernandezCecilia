@@ -195,7 +195,7 @@ void CreateShaders()
 
 int main()
 {
-	mainWindow = Window(800, 600);
+	mainWindow = Window(800, 800);
 	mainWindow.Initialise();
 
 	CrearCubo();                  // índice 0 
