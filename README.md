@@ -1,7 +1,7 @@
 # Gato Robot - Controles
 
 
-## Movimiento de las Patas (Ciclo de Caminado)
+## Movimiento de las Patas
 Las teclas de las patas están programadas para plegar el muslo y la pantorrilla simultáneamente con un solo toque, simulando que el gato reoliega las patas.
 
 | Tecla | Extremidad | Articulaciones que Modifica |
